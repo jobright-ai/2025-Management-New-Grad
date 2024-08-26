@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Executive and Administrative, C-Level Executives, Project and Program Management, Business and Strategic Management and Consultant.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Management and Executive&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Management%20and%20Executive&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=Management and Executive&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=Management%20and%20Executive&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=Management and Executive&utm_source=1103">
+    <a href="https://jobright.ai/?utm_campaign=Management%20and%20Executive&utm_source=1103">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -44,7 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, click the following sortable link below:
 </h4>
-<a href="https://newgrad-jobs.com/?selectedKey=🌟%20Management%20and%20Executive&utm_source=1103&utm_campaign=Management and Executive">
+<a href="https://newgrad-jobs.com/?selectedKey=🌟%20Management%20and%20Executive&utm_source=1103&utm_campaign=Management%20and%20Executive">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cogent Communications Group](http://www.cogentco.com)** | **[Data Center Operations Manager](https://jobright-internal.com/jobs/info/66cc1db206b740d9a6976424?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | On Site | Aug 25 |
 | **[Skechers U.S.A.](http://www.skechers.com)** | **[1st Assistant Manager - Non-Admin](https://jobright-internal.com/jobs/info/66cc04ff3fd2e7d035a0ff2a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tukwila, WA | On Site | Aug 25 |
 | **[Tradehome Shoes](http://tradehome.com)** | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66cbfed129726457a4b127d6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clarksville, TN | On Site | Aug 25 |
 | ↳ | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66cbfed129726457a4b127d5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mishawaka, IN | On Site | Aug 25 |
@@ -66,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/)** | **[Office Representative - State Farm Agent Team Member](https://jobright-internal.com/jobs/info/66cbf836262817523ad9f617?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Buford, GA | On Site | Aug 25 |
 | **[BAL](https://www.bal.com)** | **[Client Dedicated - Administrative Assistant](https://jobright-internal.com/jobs/info/66cbf836262817523ad9f650?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Francisco, CA | On Site | Aug 25 |
 | **[L.E.K. Consulting](http://www.lek.com)** | **[Office Facilitator](https://jobright-internal.com/jobs/info/66cbf836262817523ad9f654?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, United States | Hybrid | Aug 25 |
+| **[Cogent Communications Group](http://www.cogentco.com)** | **[Data Center Operations Manager](https://jobright-internal.com/jobs/info/66cbded9afd8f212c739909e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | On Site | Aug 25 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Tire and Battery Center Team Leader](https://jobright-internal.com/jobs/info/66cbc2b2f977c5feb26dafd8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Layton, UT | On Site | Aug 25 |
 | **[Confidential](http://confidential-company.com/)** | **[Office Manager](https://jobright-internal.com/jobs/info/66cbc5ea5f59c9000f4c3519?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hermiston, OR | On Site | Aug 25 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Associate Project Manager / Project Manager](https://jobright-internal.com/jobs/info/66cbc5c53266af90ad5b436c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Iuka, MS | On Site | Aug 25 |
@@ -374,7 +374,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c95cad38c41a74751b4b4e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waco, TX | On Site | Aug 23 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c94909f272b462db8c4db6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Francisco, CA | On Site | Aug 23 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Administrative Clerk - Custody Bureau Hearing Unit](https://jobright-internal.com/jobs/info/66c944a107756189b1c91ff3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greater Phoenix Area | On Site | Aug 23 |
-| **[Torrance Memorial Medical Center](https://www.torrancememorial.org)** | **[Secretary](https://jobright-internal.com/jobs/info/66c944a107756189b1c92032?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Torrance, CA | On Site | Aug 23 |
+| **[Torrance Memorial Medical Center](https://www.torrancememorial.org)** | **[Secretary](https://jobright-internal.com/jobs/info/66c944a107756189b1c92036?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Torrance, CA | On Site | Aug 23 |
 | **[Assured Partners](https://www.assuredpartners.com)** | **[Account Coordinator](https://jobright-internal.com/jobs/info/66c953da4033db2085d741a4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rockville, MD | On Site | Aug 23 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67f53e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | University Park, PA | Hybrid | Aug 23 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[Executive Secretary I](https://jobright-internal.com/jobs/info/66c9390e9a01c3694b77af30?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Bernardino, CA | On Site | Aug 23 |
@@ -452,10 +452,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccac?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tennessee, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccb3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mississippi, United States | On Site | Aug 23 |
 | **[Regional Finance](https://www.regionalfinance.com/)** | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c916508792f94bc2e62c57?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Antonio, TX | On Site | Aug 23 |
-| **[Microsoft](https://www.microsoft.com)** | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccd1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New Mexico, United States | On Site | Aug 23 |
+| **[Microsoft](https://www.microsoft.com)** | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4cccf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Virginia, United States | On Site | Aug 23 |
+| ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccd1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New Mexico, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4cccd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Louisiana, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccce?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Michigan, United States | On Site | Aug 23 |
-| ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4cccf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Virginia, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccd4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vermont, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccda?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nevada, United States | On Site | Aug 23 |
 | ↳ | **[Technical Program Manager](https://jobright-internal.com/jobs/info/66c94fcbb43aa96908c4ccde?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Connecticut, United States | On Site | Aug 23 |
@@ -694,6 +694,7 @@ For a complete list, click the following sortable link below:
 | **[Tradehome Shoes](http://tradehome.com)** | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c875232c039f582bb83f57?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cincinnati, OH | On Site | Aug 23 |
 | **[Hannaford Bros. Co.](https://www.hannaford.com/)** | **[Assistant Stock Crew Manager](https://jobright-internal.com/jobs/info/66c852f7570095ae8ab0fb04?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Scarborough, ME | On Site | Aug 23 |
 | **[Santa Clara Family Health Plan](https://www.scfhp.com/)** | **[Grievance and Appeals Quality Assurance Program Manager](https://jobright-internal.com/jobs/info/66c8626bf7155ef72a23ff3e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
+| **[UNC Health Care](https://www.unchealth.org)** | **[Administrative Associate](https://jobright-internal.com/jobs/info/66c86f398653427a77d02bbe?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chapel Hill, NC | On Site | Aug 23 |
 | **[Camping World](http://www.campingworld.com/)** | **[Parts Manager](https://jobright-internal.com/jobs/info/66c847f74a0e6bd4d55cec72?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Pooler, GA | On Site | Aug 23 |
 | **[Tesla](https://www.tesla.com)** | **[Supply Chain Manager, Packaging Process & Analytics](https://jobright-internal.com/jobs/info/66c849e390aaf9b364cdc24a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fremont, CA | On Site | Aug 23 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Project Manager Series (Buses - Facilities)](https://jobright-internal.com/jobs/info/66c83a02d557f13375c65bbe?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brooklyn, NY | On Site | Aug 22 |
@@ -715,7 +716,6 @@ For a complete list, click the following sortable link below:
 | **[STV Group](http://www.stvinc.com/)** | **[Full Administrative Assistant](https://jobright-internal.com/jobs/info/66c819192ac001fcf41ac560?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jacksonville, FL | On Site | Aug 22 |
 | **[Research Foundation for Mental Hygiene](http://corporate.rfmh.org/)** | **[Administrative Support Assistant Level III](https://jobright-internal.com/jobs/info/66c825725b6ac87abbdda426?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Albany, NY | On Site | Aug 22 |
 | **[Skechers U.S.A.](http://www.skechers.com)** | **[1st Assistant Manager - Admin](https://jobright-internal.com/jobs/info/66c810b3727ea53d68943c5b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Anchorage, AK | On Site | Aug 22 |
-| **[UNC Health Care](https://www.unchealth.org)** | **[Administrative Associate](https://jobright-internal.com/jobs/info/66c81b6ea6753155ad9eb1ac?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chapel Hill, NC | On Site | Aug 22 |
 | **[Horrocks Engineers](http://www.horrocksengineers.com)** | **[Professional Surveyor/Project Manager](https://jobright-internal.com/jobs/info/66c841ebba6e8feaefc23c3f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Albuquerque, NM | On Site | Aug 22 |
 | **[Delta System & Software, Inc.](http://deltassi.com)** | **[Scrum Master](https://jobright-internal.com/jobs/info/66c8133dca432cd9f654dee7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Florida, United States | On Site | Aug 22 |
 | **[Applied Medical Resources](http://www.appliedmedical.com)** | **[Supply Chain Analyst](https://jobright-internal.com/jobs/info/66c807f4d8d984b533fa7c92?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rancho Santa Margarita, CA | On Site | Aug 22 |
@@ -831,10 +831,10 @@ For a complete list, click the following sortable link below:
 | **[Colonial Life](https://www.coloniallife.com)** | **[Assistant Manager](https://jobright-internal.com/jobs/info/66c7a8b82e8ce1fb3cd8f521?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Aug 22 |
 | **[CBRE Group](https://www.cbre.com)** | **[Assistant Asset Manager](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a33?utm_campaign=Management%20and%20Executive&utm_source=1103)** | United States | Remote | Aug 22 |
 | **[SWAN Capital](http://SWAN-Capital.com)** | **[Executive Assistant](https://jobright-internal.com/jobs/info/66c7961414e8b425b0ba5390?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Robertsdale, AL | On Site | Aug 22 |
-| **[Zips Car Wash](https://www.zipscarwash.com/)** | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c86b847ad3f6e67074eb3d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | St. Louis, MO | On Site | Aug 22 |
-| ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c83dadd687c95f0ee8dadc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | NC | On Site | Aug 22 |
+| **[Zips Car Wash](https://www.zipscarwash.com/)** | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c85ea3c1cfdb21c6626fdd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Knoxville, TN | On Site | Aug 22 |
 | ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c83dadd687c95f0ee8dada?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Salem, VA | On Site | Aug 22 |
-| ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c85ea3c1cfdb21c6626fdd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Knoxville, TN | On Site | Aug 22 |
+| ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c86b847ad3f6e67074eb3d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | St. Louis, MO | On Site | Aug 22 |
+| ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c83dadd687c95f0ee8dadc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | NC | On Site | Aug 22 |
 | ↳ | **[Assistant Site Manager](https://jobright-internal.com/jobs/info/66c8d10f680d8809be917e65?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jasper, IN | On Site | Aug 22 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c79fc39c0eb327dc524dc0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[Gartner](http://www.gartner.com)** | **[Project Specialist](https://jobright-internal.com/jobs/info/66c7ad2af46fd3ef1628e09e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Irving, TX | Hybrid | Aug 22 |
@@ -854,8 +854,8 @@ For a complete list, click the following sortable link below:
 | **[5.11](https://www.511tactical.com)** | **[Supply Chain Analyst](https://jobright-internal.com/jobs/info/66c792beed91fc885ebcce02?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 22 |
 | **[Ace Hardware](http://www.acehardware.com/)** | **[IB Clerical Coordinator](https://jobright-internal.com/jobs/info/66c7910c742578246340c878?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Loxley, AL | On Site | Aug 22 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f4497?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lacey, WA | On Site | Aug 22 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f4499?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Longview, WA | On Site | Aug 22 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f449a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Aug 22 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f4499?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Longview, WA | On Site | Aug 22 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f44b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | McDonough, GA | On Site | Aug 22 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f44a2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Glendora, CA | On Site | Aug 22 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c78a96d464ea70707f44a0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Marietta, OH | On Site | Aug 22 |
@@ -890,10 +890,10 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Department Manager](https://jobright-internal.com/jobs/info/66c3e8a8c8b7e5901021f79e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Olathe, KS | On Site | Aug 22 |
 | **[Hertz](http://www.hertz.com)** | **[Category Manager](https://jobright-internal.com/jobs/info/66c75bd3305f90ee5d49b316?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Estero, FL | On Site | Aug 22 |
 | **[Prometheum](https://www.prometheum.com/)** | **[Executive Assistant](https://jobright-internal.com/jobs/info/66c756fa553f75f05508f7da?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Aug 22 |
-| **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3ad4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Austin, TX | On Site | Aug 22 |
-| ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3a8e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rosharon, TX | On Site | Aug 22 |
-| ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3a94?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Temecula, CA | On Site | Aug 22 |
+| **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3a8e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rosharon, TX | On Site | Aug 22 |
+| ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3ad4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Austin, TX | On Site | Aug 22 |
 | ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3a95?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wilsonville, OR | On Site | Aug 22 |
+| ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c76c3817596cc9e8ab3a94?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Temecula, CA | On Site | Aug 22 |
 | **[Lightbridge Academy](https://lightbridgeacademy.com/)** | **[Administrative Assistant/Receptionist](https://jobright-internal.com/jobs/info/66c753e9af9694831d699bbb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Warren, NJ | On Site | Aug 22 |
 | **[Greystar](http://greystar.com)** | **[Groundskeeper/Porter](https://jobright-internal.com/jobs/info/66c75324cd633f86ef08d130?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charlotte, NC | On Site | Aug 22 |
 | ↳ | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c75324cd633f86ef08d13e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lancaster, CA | On Site | Aug 22 |
@@ -955,13 +955,13 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66ab588f96dc43d27bdfe4e2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, WY | On Site | Aug 22 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66ab0e7517cb976ddf4ce12b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Prairie Village, KS | On Site | Aug 22 |
 | **[Google](https://www.google.com)** | **[Program Manager I, New Product Introduction, Technical Infrastructure](https://jobright-internal.com/jobs/info/66ab12b880332de8fb7c2043?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sunnyvale, CA | On Site | Aug 22 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager](https://jobright-internal.com/jobs/info/66afb5b16f3ae96d3ddb00ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newport Beach, CA | On Site | Aug 22 |
 | **[Horizon media](http://www.horizonmedia.com)** | **[Assistant Strategist, Out of Home](https://jobright-internal.com/jobs/info/66aac03489584ed9b7f0f4fb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 22 |
 | **[National Endowment for Democracy](http://ned.org/)** | **[Program Assistant, Global](https://jobright-internal.com/jobs/info/6671bc051c9aa45f3523ffdf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | Hybrid | Aug 22 |
 | **[Heights Finance Corporation](http://heightsfinance.com)** | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/668f44902370edaa4c5675ac?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chester, SC | On Site | Aug 22 |
 | **[La Petite Academy](https://www.lapetite.com/)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66ab0749415abc0900f3f3f3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thornton, CO | On Site | Aug 22 |
 | **[Hannaford Bros. Co.](https://www.hannaford.com/)** | **[Assistant Stock Crew Manager](https://jobright-internal.com/jobs/info/66aa225023085c9e9f79c734?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hampton, NH | On Site | Aug 22 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Program Operations Coordinator](https://jobright-internal.com/jobs/info/668fcf63228dfafddaffe92f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brooklyn, NY | On Site | Aug 22 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager](https://jobright-internal.com/jobs/info/6690a4efbde41292f4f551a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newport Beach, CA | On Site | Aug 22 |
 | **[DaVita](http://www.davita.com)** | **[Analyst, Program Management](https://jobright-internal.com/jobs/info/66b0b1dd4a6f3c6d1938554c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Aug 22 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Assistant Team Leader](https://jobright-internal.com/jobs/info/668f41d5e74ffdb5b62618c7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Springfield, VA | On Site | Aug 22 |
 | **[Prosek Partners](http://www.prosek.com/)** | **[Front Office Manager](https://jobright-internal.com/jobs/info/66aac6271ad7fcf4d87d2eeb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
@@ -1012,8 +1012,8 @@ For a complete list, click the following sortable link below:
 | **[Away](https://www.awaytravel.com)** | **[Keyholder](https://jobright-internal.com/jobs/info/66c6b364a81fe44fe409e5de?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dallas, TX | On Site | Aug 21 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Project Manager](https://jobright-internal.com/jobs/info/66c6c13c99e1211b82104d60?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Blacksburg, VA | On Site | Aug 21 |
 | **[Tradehome Shoes](http://tradehome.com)** | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c6baf1949fde39aeecad86?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
-| ↳ | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c6baf1949fde39aeecad85?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Smith, AR | On Site | Aug 21 |
 | ↳ | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c6baf1949fde39aeecacc9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Barboursville, WV | On Site | Aug 21 |
+| ↳ | **[Manager-in-Training](https://jobright-internal.com/jobs/info/66c6baf1949fde39aeecad85?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Smith, AR | On Site | Aug 21 |
 | **[Avolta](https://www.avoltaworld.com/)** | **[Retail Operations Supervisor](https://jobright-internal.com/jobs/info/66c6da744bd4e8725f20516c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tampa, FL | Hybrid | Aug 21 |
 | **[Dent Wizard International](http://www.dentwizard.com)** | **[Operations Coordinator](https://jobright-internal.com/jobs/info/66c7f588eacf9b3cd21ec617?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Philadelphia, PA | On Site | Aug 21 |
 | ↳ | **[Operations Coordinator](https://jobright-internal.com/jobs/info/66c7f588eacf9b3cd21ec620?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mt. Laurel, NJ | On Site | Aug 21 |
@@ -1070,8 +1070,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c6d43bf43d1bbed12fe5a2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Red Wing, MN | On Site | Aug 21 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c6d43bf43d1bbed12fe59f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denton, TX | On Site | Aug 21 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c6d43bf43d1bbed12fe651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, MO | On Site | Aug 21 |
-| **[Regional Finance](https://www.regionalfinance.com/)** | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f652b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Pearland, TX | On Site | Aug 21 |
-| ↳ | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f6529?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Texas City, TX | On Site | Aug 21 |
+| **[Regional Finance](https://www.regionalfinance.com/)** | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f6529?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Texas City, TX | On Site | Aug 21 |
+| ↳ | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f652b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Pearland, TX | On Site | Aug 21 |
 | ↳ | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f652a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dayton, TN | On Site | Aug 21 |
 | ↳ | **[Assistant Branch Manager](https://jobright-internal.com/jobs/info/66c671ec2f6a768ed47f652c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Duncanville, TX | On Site | Aug 21 |
 | **[Chemonics](http://www.chemonics.com)** | **[Program Associate](https://jobright-internal.com/jobs/info/66c67e6289d6136c4923e9fc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | DC-Baltimore Area | On Site | Aug 21 |
@@ -1284,14 +1284,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689f4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sausalito, CA | On Site | Aug 20 |
 | ↳ | **[Part Time Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Franklin, VA | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ea?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lafayette, CO | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ed?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Corning, CA | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689eb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cheyenne, WY | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Granbury, TX | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689f0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greenville, TX | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Granbury, TX | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lafayette, CO | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elkton, MD | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ef?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Louisville, CO | On Site | Aug 20 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Assistant Manager](https://jobright-internal.com/jobs/info/66c3dc6b793e5042d65070d0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Aug 20 |
 | **[The Salvation Army](https://www.salvationarmyusa.org)** | **[Program Coordinator](https://jobright-internal.com/jobs/info/66c58b854031dddaece8f1fc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lebanon, PA | On Site | Aug 20 |
@@ -1582,9 +1582,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f4508c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Worth, TX | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45200?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Citrus Heights, CA | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45087?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Aug 19 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45086?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dorr, MI | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f4508d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Houston, TX | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45089?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Melbourne, FL | On Site | Aug 19 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45086?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dorr, MI | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f45097?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Falmouth, ME | On Site | Aug 19 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c476af333497bf65f4508f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Logan, UT | On Site | Aug 19 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66a83b5ee09293cbe7e9fdc3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brooklyn, NY | On Site | Aug 19 |
@@ -1637,6 +1637,4 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Research Institute](https://www.nrri.umn.edu/)** | **[Administrative Coordinator](https://jobright-internal.com/jobs/info/66c3f76edafdc30aeb711144?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minneapolis, MN | On Site | Aug 19 |
 | **[PCL Construction](http://www.pcl.com)** | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c3f2a3be7512e9de0012cf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New Orleans, LA | On Site | Aug 19 |
 | ↳ | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c3f2a3be7512e9de0012d2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mobile, AL | On Site | Aug 19 |
-| **[Serco](https://www.serco.com)** | **[Junior Acquisition Analyst](https://jobright-internal.com/jobs/info/66c3eafed0002deda2e5a429?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | On Site | Aug 19 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c3eaa24c23af48b74100aa?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Centennial, CO | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
