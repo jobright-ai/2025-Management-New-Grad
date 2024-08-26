@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Management%20and%20Executive by Jobright.ai
+# Daily Intern Jobs in Management and Executive by Jobright.ai
 
 
 
@@ -1287,10 +1287,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lafayette, CO | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ed?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Corning, CA | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689eb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cheyenne, WY | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
-| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689f0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greenville, TX | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Granbury, TX | On Site | Aug 20 |
+| ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689f0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greenville, TX | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elkton, MD | On Site | Aug 20 |
 | ↳ | **[Branch Office Administrator](https://jobright-internal.com/jobs/info/66c5ccae5671a60a21d689ef?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Louisville, CO | On Site | Aug 20 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Assistant Manager](https://jobright-internal.com/jobs/info/66c3dc6b793e5042d65070d0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Aug 20 |
@@ -1639,5 +1639,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Assistant](https://jobright-internal.com/jobs/info/66c3f2a3be7512e9de0012d2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mobile, AL | On Site | Aug 19 |
 | **[Serco](https://www.serco.com)** | **[Junior Acquisition Analyst](https://jobright-internal.com/jobs/info/66c3eafed0002deda2e5a429?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | On Site | Aug 19 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager](https://jobright-internal.com/jobs/info/66c3eaa24c23af48b74100aa?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Centennial, CO | On Site | Aug 19 |
-| **[Northwest Exterminating](https://www.callnorthwest.com/)** | **[Administrative Professional](https://jobright-internal.com/jobs/info/66c3f559bd245572b75adbf0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Pooler, GA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
