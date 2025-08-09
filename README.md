@@ -99,8 +99,4 @@ For a complete list, click the following sortable link below:
 | **[ENTRUST Solutions Group](https://entrustsol.com)** | **[New Business Project Manager](https://jobright.ai/jobs/info/67fefc0ff371ad217db52c64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Aug 03 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1476?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lugoff, SC | On Site | Aug 03 |
 | ↳ | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8c6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, SC | On Site | Aug 03 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1465?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Maysville, KY | On Site | Aug 02 |
-| **[State and Liberty Clothing Co.](https://stateandliberty.com)** | **[Manager in Training](https://jobright.ai/jobs/info/67f5b6191ca62aaac2cea509?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charleston, SC | On Site | Aug 02 |
-| ↳ | **[Manager in Training](https://jobright.ai/jobs/info/67f690581897aeda809a62d2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Aug 02 |
-| ↳ | **[Manager in Training](https://jobright.ai/jobs/info/67f5f36cb21a7d2e1c5c6b4c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greenwich, CT | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
