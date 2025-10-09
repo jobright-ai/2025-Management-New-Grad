@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palm Beach State College](http://www.palmbeachstate.edu/)** | **[Administrative Assistant II](https://jobright.ai/jobs/info/68ce061db2a74e1837ede919?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Boca Raton, FL | On Site | Oct 09 |
 | **[Lime](https://www.li.me)** | **[Operations Coordinator](https://jobright.ai/jobs/info/6876219eae2f413e4a5ad26a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chicago, IL | On Site | Oct 08 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68cd10ceb2a74e1837ed1a34?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Albany, OR | On Site | Oct 08 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[OR Supply Internal Control Coordinator](https://jobright.ai/jobs/info/689272a84c7e851b90ad5e2c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
@@ -67,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[First Western Trust](https://myfw.com/)** | **[Facilities Coordinator](https://jobright.ai/jobs/info/68acec11d627244576e49e65?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Oct 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Installation Materials)](https://jobright.ai/jobs/info/68cd9dd6e23def7af55bcd08?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bohemia, NY | On Site | Oct 08 |
 | ↳ | **[Assistant Department Manager (Stone)](https://jobright.ai/jobs/info/68adcfe2758f2e4ac300ec1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skokie, IL | On Site | Oct 08 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Manager For Recent and Upcoming Grads](https://jobright.ai/jobs/info/68cd10b61ad6b16f0289437f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Morris, IL | Hybrid | Oct 08 |
+| **[Wesco](http://www.wesco.com/)** | **[2026 Supply Chain Leadership Development Program (Begins June 2026)](https://jobright.ai/jobs/info/68754a655cebcd1dd51bf2cd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Pittsburgh, PA | Hybrid | Oct 08 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Graduate - R&D Project Specialist](https://jobright.ai/jobs/info/68ad2899daf1431824c9ad3b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Leominster, MA | On Site | Oct 08 |
 | **[Deutsche Bank](https://www.db.com)** | **[Administrative Assistant, LatAm](https://jobright.ai/jobs/info/68d59a911f7fb2169ab1241a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 08 |
 | **[Biolumina](http://biolumina.com)** | **[Project Coordinator](https://jobright.ai/jobs/info/68c99fe795f5211cd2cf22e2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 08 |
@@ -160,6 +163,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Wood)](https://jobright.ai/jobs/info/688bda2e3a30793eb963e358?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Avenel, NJ | On Site | Oct 05 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Now Hiring Salaried Assistant Managers!](https://jobright.ai/jobs/info/66dc1b864762d308ae161a57?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Beaumont, TX | On Site | Oct 05 |
 | ↳ | **[Hiring Shift Managers all Shifts](https://jobright.ai/jobs/info/68cd2152b2a74e1837ed2e72?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Hutchinson, KS | On Site | Oct 05 |
+| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/68cce06c77add66568abb17d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, SC | On Site | Oct 05 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68763524ae2f413e4a5ade5a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minneapolis, MN | On Site | Oct 05 |
 | **[Greystar](http://greystar.com)** | **[Assistant Community Manager - The Retreat at Marlborough](https://jobright.ai/jobs/info/68cec320fb49c96ca6ea34e1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mansfield, MA | Hybrid | Oct 05 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Department Manager](https://jobright.ai/jobs/info/68db841be19b9e63ba20ce5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Oct 05 |
@@ -305,5 +309,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analyst Program, Early Careers - Corporate & Investment Banking (CIB) Chief Operating Office (COO)](https://jobright.ai/jobs/info/68ce6678846f0b04af6796df?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Temporary Administrative Support (Spec.Temp Steno/Clerk-Gen SG)](https://jobright.ai/jobs/info/68c1ddb1233c7d3e64d0562c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Allentown, PA | On Site | Oct 02 |
 | **[Kansas City Kansas Community College](http://www.kckcc.edu/)** | **[Administrative Assistant I](https://jobright.ai/jobs/info/68ccf5b35954791a1d701b4e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kansas City, KS | On Site | Oct 02 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Program Management (Rochester, NY)](https://jobright.ai/jobs/info/68c1e657233c7d3e64d05c16?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rochester, NY | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
