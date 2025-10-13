@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68b7e5f5a10b650604b61da7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Lebanon, NH | On Site | Oct 13 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Analyst (E)](https://jobright.ai/jobs/info/68ccfd215954791a1d7024e9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 13 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/6880c4e4f4f06100f3a20c18?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Carolina, United States | On Site | Oct 13 |
 | ↳ | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee146e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jesup, GA | On Site | Oct 13 |
+| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1462?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Paris, KY | On Site | Oct 12 |
 | **[State and Liberty Clothing Co.](https://stateandliberty.com)** | **[Manager in Training](https://jobright.ai/jobs/info/667991bdad88394743db3850?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dedham, MA | On Site | Oct 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Manager Trainee - Operational Strength Program](https://jobright.ai/jobs/info/68ccf51477add66568abc8cb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Philadelphia, PA | On Site | Oct 12 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68b457761ade4306aa63e3d3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Stafford, TX | On Site | Oct 12 |
@@ -159,7 +161,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc22c1128dc347fd91fa0a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Shiloh, IL | Hybrid | Oct 10 |
 | ↳ | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc29c57342c7623ae60335?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Edgewater, NJ | Hybrid | Oct 10 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Production Associate - Bradford PA](https://jobright.ai/jobs/info/68cee8dedbd9fb154ede395c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bradford, PA | On Site | Oct 10 |
-| **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc26c57342c7623ae5fee4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
+| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Managers-$21.00-$24.00 Hr./ Free Meals/Uniforms/Flexible](https://jobright.ai/jobs/info/68cd5c83e23def7af55b8bb7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68cd09de1ad6b16f02893aba?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Stillwater, OK | On Site | Oct 10 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Project Coord Analyst](https://jobright.ai/jobs/info/68afadbaf20641371441f77f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Iowa City, IA | On Site | Oct 10 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc3efe128dc347fd92184d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Champlin, MN | Hybrid | Oct 10 |
@@ -185,6 +187,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc290716d00d2beeb1b139?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | ↳ | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc223016d00d2beeb1a513?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Westminster, CO | Hybrid | Oct 10 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Hiring Shift Managers all Shifts](https://jobright.ai/jobs/info/6894beb38c6d6b4426773f6b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hutchinson, KS | On Site | Oct 10 |
+| **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc2b1a7342c7623ae605fd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Department Assistant](https://jobright.ai/jobs/info/6876f566299cbc74b876215c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cce5e977add66568abb8d5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Puyallup, WA | Hybrid | Oct 10 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 10 |
