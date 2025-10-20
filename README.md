@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793a64d92f9511d05a60ede?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hope Mills, NC | On Site | Oct 17 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68d56b511f7fb2169ab0fc47?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Alpharetta, GA | On Site | Oct 17 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Development Program - Early Careers](https://jobright.ai/jobs/info/68cf5bc9846f0b04af68188b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Des Moines, IA | On Site | Oct 16 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68d486478c62e63bc7fe9fe9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Gulf Breeze, FL | On Site | Oct 16 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Assistant, A&R](https://jobright.ai/jobs/info/68d48e88ffc1276de3fdbd30?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
-| **[KELLER](https://www.keller-france.com/)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/67f05d6d687e281bdd3137e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Detroit, MI | On Site | Oct 16 |
+| **[KELLER](https://www.keller.com.au/)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/67f05d6d687e281bdd3137e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Detroit, MI | On Site | Oct 16 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[$18 Anytime availability -Shift Manager Starting at $17](https://jobright.ai/jobs/info/689ca63a79a9f966625398b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/679353a98ce26e81cc7a8117?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Anchorage, AK | On Site | Oct 16 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Production Manager Trainee - Farm 35071](https://jobright.ai/jobs/info/68d650244736ff202fdd27eb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kinston, NC | On Site | Oct 16 |
@@ -202,6 +203,7 @@ For a complete list, click the following sortable link below:
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Closing Shift Manager](https://jobright.ai/jobs/info/68d24cea17554c2d9eee6ad3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Orchard Park, NY | On Site | Oct 14 |
 | **[Air Charter Service](http://www.aircharterservice.com)** | **[Facilities Assistant (On-Site, Long Island)](https://jobright.ai/jobs/info/68c9ce5595f5211cd2cf49b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Uniondale, NY | On Site | Oct 14 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68b591a9bc187f64e1be73af?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Naples, FL | On Site | Oct 14 |
+| ↳ | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68b58d071ade4306aa64224b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | North Conway, NH | On Site | Oct 14 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Project Coordinator](https://jobright.ai/jobs/info/68d295dff0d9af73038d9845?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cranbury, NJ | Hybrid | Oct 14 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68d14fe08c62e63bc7fca375?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elyria, OH | On Site | Oct 14 |
 | ↳ | **[Dental Office Manager](https://jobright.ai/jobs/info/68ce4a7bdbd9fb154edddc08?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jefferson City, MO | On Site | Oct 14 |
@@ -231,8 +233,4 @@ For a complete list, click the following sortable link below:
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68ca6f9746caff4db51ff8f4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wilson, NC | On Site | Oct 13 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[$18 Anytime availability -Shift Manager Starting at $17](https://jobright.ai/jobs/info/68b457a6bc187f64e1be3380?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Las Vegas, NV | On Site | Oct 13 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1475?utm_campaign=Management%20and%20Executive&utm_source=1103)** | High Point, NC | On Site | Oct 13 |
-| **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68b58ea11ade4306aa642386?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbus, OH | On Site | Oct 13 |
-| **[International Paper](http://www.internationalpaper.com/)** | **[Leadership Development Program](https://jobright.ai/jobs/info/68b53a33bc187f64e1be5c0b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mount Vernon, OH | On Site | Oct 13 |
-| **[ENTRUST Solutions Group](https://entrustsol.com)** | **[Project Manager](https://jobright.ai/jobs/info/67d0cd9e121f417d69fdfc4f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fresno, CA | Hybrid | Oct 13 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1489?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Stanford, KY | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
