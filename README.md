@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbc0c5c5d5f14f46d95b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chelsea, MA | Hybrid | Oct 20 |
+| **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfd1a35c5d5f14f46d9e80?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cambridge, MD | Hybrid | Oct 20 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbc0c5c5d5f14f46d95b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chelsea, MA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbac84ba798c1a501d3c18?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Lake Tahoe, CA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc5418e65e77df55bcffc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amsterdam, NY | Hybrid | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68bd9b58c4c5904ff6003eeb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brentwood, TN | On Site | Oct 20 |
@@ -178,7 +180,4 @@ For a complete list, click the following sortable link below:
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee146c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mocksville, NC | On Site | Oct 15 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1460?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Orangeburg, SC | On Site | Oct 14 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Strategy & Operations Analyst](https://jobright.ai/jobs/info/68cf3aed846f0b04af67fde2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chicago, IL | On Site | Oct 14 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/67933d9a8b8cd24636904f36?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Antonio, TX | On Site | Oct 14 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Storage Buy Specialist](https://jobright.ai/jobs/info/687d3de12097a271a898e224?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Aspen Hill, MD | On Site | Oct 14 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Manager Trainee - Operational Strength Program](https://jobright.ai/jobs/info/68ccf51477add66568abc8cb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Philadelphia, PA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
