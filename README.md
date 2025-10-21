@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbac84ba798c1a501d3c18?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Lake Tahoe, CA | Hybrid | Oct 20 |
+| **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68bd9b58c4c5904ff6003eeb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brentwood, TN | On Site | Oct 20 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68cce5b077add66568abb856?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Batavia, NY | Hybrid | Oct 20 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2915c5d5f14f46d98be?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lacey, WA | Hybrid | Oct 20 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
@@ -216,8 +220,4 @@ For a complete list, click the following sortable link below:
 | **[Gruve](https://www.gruve.ai)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d1e268a54edb3bf3e17369?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Houston, TX | Hybrid | Oct 14 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Production Manager - Mens](https://jobright.ai/jobs/info/68d7760d7a37c712687cd759?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Graduate (TikTok Shop - Operations) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68ce19e41ad6b16f028a1c19?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8c7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Richmond, KY | On Site | Oct 14 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Digital Project Specialist](https://jobright.ai/jobs/info/67eec162357dc4681d8642b3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Secretary](https://jobright.ai/jobs/info/68cb7619ba798c1a501d00e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Trenton, NJ | On Site | Oct 14 |
-| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Leader / Manager](https://jobright.ai/jobs/info/6842fe8af4c2363dcee0526f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fitchburg, MA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
