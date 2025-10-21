@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbac84ba798c1a501d3c18?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Lake Tahoe, CA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc5418e65e77df55bcffc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amsterdam, NY | Hybrid | Oct 20 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68bd9b58c4c5904ff6003eeb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brentwood, TN | On Site | Oct 20 |
@@ -183,7 +184,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/68ccdfe7d11b445e0bee35fd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Manager Trainee - Operational Strength Program](https://jobright.ai/jobs/info/68ccf5865954791a1d701af3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Boston, MA | On Site | Oct 14 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68d149c58c62e63bc7fc9f84?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Florence, KY | On Site | Oct 14 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/68cba16f9e3a822f5d2494f7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, SC | On Site | Oct 14 |
-| **[Associa](http://www.associaonline.com)** | **[Community Association Manager](https://jobright.ai/jobs/info/68d1ab2117554c2d9eede4c1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Storage Buy Specialist](https://jobright.ai/jobs/info/687d3f7ded63844c944b23a9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chula Vista, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
