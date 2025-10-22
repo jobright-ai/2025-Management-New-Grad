@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbe74702aa35207aa8e6c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
+| **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Project Support Coordinator](https://jobright.ai/jobs/info/68bf34075c5d5f14f46d4c52?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elmira, NY | On Site | Oct 21 |
 | **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd8f8e65e77df55bcc70?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Suffern, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfd1a35c5d5f14f46d9e80?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cambridge, MD | Hybrid | Oct 20 |
@@ -73,6 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf2e8e65e77df55b4651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Monroe, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
+| **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright.ai/jobs/info/68bc67fbae79610dacddb964?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 19 |
+| **[Kerry](https://www.kerry.com/)** | **[2026 Leadership Development Program - North America](https://jobright.ai/jobs/info/68bb70d76105227d118a5f77?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Beloit, WI | On Site | Oct 19 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68cd5a661ad6b16f028985a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Chester, PA | On Site | Oct 18 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
@@ -169,13 +174,4 @@ For a complete list, click the following sortable link below:
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68b783e81ade4306aa64b925?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Phenix City, AL | On Site | Oct 15 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Development Program - Early Careers](https://jobright.ai/jobs/info/68c62ef87d0db411427362a6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Deco)](https://jobright.ai/jobs/info/687d3eaced63844c944b2340?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Leandro, CA | On Site | Oct 15 |
-| ↳ | **[Storage Buy Specialist](https://jobright.ai/jobs/info/687d40f8764c3d7411c3c984?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Woodbridge, VA | On Site | Oct 15 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee147b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chesapeake, VA | On Site | Oct 15 |
-| **[Montrose Environmental Group](https://montrose-env.com)** | **[Environmental Field Project Manager](https://jobright.ai/jobs/info/67d39f92d9957b9418ffd48d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Gillette, WY | On Site | Oct 15 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Oncology Clinical Research Coordinator FSM/CC](https://jobright.ai/jobs/info/689c6cee83d13d1f5b6a86d5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chicago, IL | Hybrid | Oct 15 |
-| **[The Shade Store](https://www.theshadestore.com/)** | **[Showroom Administrative Assistant - Houston, TX](https://jobright.ai/jobs/info/689a9178faa4e875e8259bf1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Houston, TX | On Site | Oct 15 |
-| **[Allvue Systems](https://www.allvuesystems.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/68d32b978c62e63bc7fde4dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Assistant Manager](https://jobright.ai/jobs/info/689ba2e679a9f966625322ac?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chantilly, VA | On Site | Oct 15 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Asset Recovery Recycling Center Supervisor](https://jobright.ai/jobs/info/68c0aabe8e65e77df55c379f?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Melville, NY | On Site | Oct 15 |
-| **[Transwestern](https://transwestern.com)** | **[Property Administrator](https://jobright.ai/jobs/info/680c1c55dc2d551620908b77?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Leandro, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
