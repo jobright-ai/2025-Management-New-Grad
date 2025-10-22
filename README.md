@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Associate Graduate (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cb9288efdec76df36bef69?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 22 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02eb68e65e77df55bf146?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wall, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
@@ -131,7 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Acrisure](http://acrisure.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d42883ffc1276de3fd7d2e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 16 |
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Assistant Manager](https://jobright.ai/jobs/info/68b793121ade4306aa64c176?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Watertown, MA | On Site | Oct 16 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Building Environments Administrative Coordinator](https://jobright.ai/jobs/info/68d30f8a8c62e63bc7fdd634?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | Hybrid | Oct 16 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Development Program - Early Careers](https://jobright.ai/jobs/info/68ccd7af5954791a1d6ff6d7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chandler, AZ | On Site | Oct 15 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68a704c8758f2e4ac3fe90af?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Paramus, NJ | On Site | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Installation Materials)](https://jobright.ai/jobs/info/687d49ae764c3d7411c3ca33?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Paramus, NJ | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
