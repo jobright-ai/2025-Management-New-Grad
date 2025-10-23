@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5aef7342c7623ae62cde?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Springfield, VA | On Site | Oct 16 |
 | ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc747f16d00d2beeb20063?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Graduate Project Management Specialist - 2026](https://jobright.ai/jobs/info/68d47dfb8c62e63bc7fe9ae2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc78627342c7623ae6560a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, TN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
