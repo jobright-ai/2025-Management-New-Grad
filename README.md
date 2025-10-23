@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead - QMHP - Mental Health 208](https://jobright.ai/jobs/info/68c1d1b34d652f044775a8d1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bend, OR | On Site | Oct 23 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68bef506702aa35207aa1de2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Boca Raton, FL | On Site | Oct 22 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed5ee8e65e77df55b4aa0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sedro-Woolley, WA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02eb68e65e77df55bf146?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wall, NJ | Hybrid | Oct 21 |
@@ -103,10 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/679353a98ce26e81cc7a8107?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vernon Hills, IL | On Site | Oct 16 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5987128dc347fd922f0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, MD | On Site | Oct 16 |
 | ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5a30128dc347fd923060?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Frederick, MD | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc6cb9128dc347fd924bb8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Spring Hill, TN | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc59db128dc347fd922fb4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wilmington, DE | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc62f316d00d2beeb1eb38?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Laurel, MD | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5adb16d00d2beeb1dc86?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Manassas, VA | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5aef7342c7623ae62cde?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Springfield, VA | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc747f16d00d2beeb20063?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
