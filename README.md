@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Strategy Associate Graduate (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cb9288efdec76df36bef69?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
@@ -129,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[The Tile Shop](http://www.tileshop.com/)** | **[Assistant Manager](https://jobright.ai/jobs/info/68b798fff4e41a61efd9a65c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mount Prospect, IL | On Site | Oct 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager- California](https://jobright.ai/jobs/info/68d439d317554c2d9eef723e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | **[Acrisure](http://acrisure.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d42883ffc1276de3fd7d2e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 16 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Assistant Manager](https://jobright.ai/jobs/info/68b793121ade4306aa64c176?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Watertown, MA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
