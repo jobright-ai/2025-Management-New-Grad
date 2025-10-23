@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02eb68e65e77df55bf146?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wall, NJ | Hybrid | Oct 21 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf2e8e65e77df55b4651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Monroe, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
+| **[Edward Jones](https://www.edwardjones.com)** | **[Part Time Branch Office Administrator](https://jobright.ai/jobs/info/68d94764022fc803b4876fc8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Fe, NM | On Site | Oct 19 |
 | **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright.ai/jobs/info/68bc67fbae79610dacddb964?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 19 |
 | **[Kerry](https://www.kerry.com/)** | **[2026 Leadership Development Program - North America](https://jobright.ai/jobs/info/68bb70d76105227d118a5f77?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Beloit, WI | On Site | Oct 19 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
@@ -117,15 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68d486478c62e63bc7fe9fe9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Gulf Breeze, FL | On Site | Oct 16 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Assistant, A&R](https://jobright.ai/jobs/info/68d48e88ffc1276de3fdbd30?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
 | **[KELLER](http://www.keller.co.uk)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/67f05d6d687e281bdd3137e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Detroit, MI | On Site | Oct 16 |
-| **[McDonald's](https://corporate.mcdonalds.com/)** | **[$18 Anytime availability -Shift Manager Starting at $17](https://jobright.ai/jobs/info/689ca63a79a9f966625398b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Las Vegas, NV | On Site | Oct 16 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/679353a98ce26e81cc7a8117?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Anchorage, AK | On Site | Oct 16 |
-| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Production Manager Trainee - Farm 35071](https://jobright.ai/jobs/info/68d650244736ff202fdd27eb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kinston, NC | On Site | Oct 16 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/67932ca8f7cb75e47ca9128b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Schertz, TX | On Site | Oct 16 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Operations Leadership Development Program](https://jobright.ai/jobs/info/689c0b3cfaa4e875e82655f6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 16 |
-| **[Momentum](https://momentum.com/)** | **[Launch Graduate Program: Enterprise Systems Associate](https://jobright.ai/jobs/info/68ccfcc95954791a1d70241e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dallas, TX | On Site | Oct 16 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Burlington, NC | On Site | Oct 16 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/689c72e483d13d1f5b6a87b5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Long Beach, CA | On Site | Oct 16 |
-| **[The Tile Shop](http://www.tileshop.com/)** | **[Assistant Manager](https://jobright.ai/jobs/info/68b798fff4e41a61efd9a65c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mount Prospect, IL | On Site | Oct 16 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager- California](https://jobright.ai/jobs/info/68d439d317554c2d9eef723e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
-| **[Acrisure](http://acrisure.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d42883ffc1276de3fd7d2e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
