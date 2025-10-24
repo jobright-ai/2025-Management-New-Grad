@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherokee Federal](https://cherokee-federal.com)** | **[Administrative Clerk](https://jobright.ai/jobs/info/68c3405363829b0a8a5014c9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lakewood, CO | Remote | Oct 24 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead - QMHP - Mental Health 208](https://jobright.ai/jobs/info/68c1d1b34d652f044775a8d1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bend, OR | On Site | Oct 23 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68bef506702aa35207aa1de2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Boca Raton, FL | On Site | Oct 22 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
@@ -96,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d6580eebcef82ef5cf9e09?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Polson, MT | On Site | Oct 18 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793a64d92f9511d05a60ede?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hope Mills, NC | On Site | Oct 17 |
-| **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68b858d6ea901c0d269f5800?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Grafton, WI | On Site | Oct 17 |
-| **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68d56b511f7fb2169ab0fc47?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Alpharetta, GA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
