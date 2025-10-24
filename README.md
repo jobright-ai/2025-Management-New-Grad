@@ -99,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68b858d6ea901c0d269f5800?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Grafton, WI | On Site | Oct 17 |
 | **[Rooms To Go](http://www.roomstogo.com/)** | **[Retail Office Assistant](https://jobright.ai/jobs/info/68d56b511f7fb2169ab0fc47?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Alpharetta, GA | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sanford, NC | On Site | Oct 17 |
-| **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d5f11c2116ff37ee0915a7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rome, GA | On Site | Oct 17 |
-| ↳ | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d6a39a894705799a2ec91c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Mateo, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
