@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02eb68e65e77df55bf146?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wall, NJ | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed7998e65e77df55b4c7b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Saratoga Springs, NY | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbe74702aa35207aa8e6c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf268e65e77df55b4641?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Shelton, WA | Hybrid | Oct 21 |
@@ -95,6 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/68c7ffa9983e6768bc548d0b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Port Charlotte, FL | On Site | Oct 18 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d6580eebcef82ef5cf9e09?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Polson, MT | On Site | Oct 18 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
-| ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793a64d92f9511d05a60ede?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hope Mills, NC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
