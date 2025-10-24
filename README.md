@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d5f11c2116ff37ee0915a7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rome, GA | On Site | Oct 17 |
 | ↳ | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d6a39a894705799a2ec91c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Mateo, CA | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/6863d51a96e8e76b43fb42e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Portland, OR | On Site | Oct 17 |
-| **[Gruve](https://www.gruve.ai)** | **[Part-Time Personal Assistant (Finance & Executive Support)](https://jobright.ai/jobs/info/68ba37b08043103d4f21ea40?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Redwood City, CA | On Site | Oct 17 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d611932116ff37ee0922d0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Riverside, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
