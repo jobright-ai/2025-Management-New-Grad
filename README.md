@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sanford, NC | On Site | Oct 17 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d5f11c2116ff37ee0915a7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Rome, GA | On Site | Oct 17 |
 | ↳ | **[Branch Office Administrator](https://jobright.ai/jobs/info/68d6a39a894705799a2ec91c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Mateo, CA | On Site | Oct 17 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/6863d51a96e8e76b43fb42e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Portland, OR | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
