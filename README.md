@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Part Time Branch Office Administrator](https://jobright.ai/jobs/info/68d94764022fc803b4876fc8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Fe, NM | On Site | Oct 19 |
 | **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright.ai/jobs/info/68bc67fbae79610dacddb964?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 19 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/68c7ffa9983e6768bc548d0b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Port Charlotte, FL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
