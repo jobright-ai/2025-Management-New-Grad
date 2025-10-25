@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/68510ea558938b8c777fe22a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newmarket, NH | On Site | Oct 24 |
+| **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor II-Homebase](https://jobright.ai/jobs/info/686ef34ac0d19050cf5c97da?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Oct 24 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6851e2a69d0e77769479775a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Oct 24 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Administrative Clerk](https://jobright.ai/jobs/info/68c3405363829b0a8a5014c9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lakewood, CO | Remote | Oct 24 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Team Lead - QMHP - Mental Health 208](https://jobright.ai/jobs/info/68c1d1b34d652f044775a8d1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bend, OR | On Site | Oct 23 |
