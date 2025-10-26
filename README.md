@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Direct Care Staff / Behavior Tech - Poplar House EBSH 613](https://jobright.ai/jobs/info/67dea48fe6ce25fae13dcaa4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | East Palo Alto, CA | On Site | Oct 24 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/68510ea558938b8c777fe22a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newmarket, NH | On Site | Oct 24 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor II-Homebase](https://jobright.ai/jobs/info/686ef34ac0d19050cf5c97da?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Oct 24 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6851e2a69d0e77769479775a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lincoln, NE | On Site | Oct 24 |
