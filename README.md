@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Part Time Branch Office Administrator](https://jobright.ai/jobs/info/68d94764022fc803b4876fc8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Fe, NM | On Site | Oct 19 |
-| **[Greystar](http://greystar.com)** | **[Assistant Community Manager](https://jobright.ai/jobs/info/68bc67fbae79610dacddb964?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
