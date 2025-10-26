@@ -97,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc5418e65e77df55bcffc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amsterdam, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ca539346caff4db51fd68a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tonawanda, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cce5b077add66568abb856?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Batavia, NY | Hybrid | Oct 20 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02f228e65e77df55bf1a3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amesbury, MA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2b05c5d5f14f46d98d1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cranford, NJ | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2915c5d5f14f46d98be?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lacey, WA | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
