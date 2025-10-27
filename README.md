@@ -69,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1f3702aa35207aa09f1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Culver City, CA | Hybrid | Oct 22 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd688e65e77df55b44b7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Billerica, MA | Hybrid | Oct 22 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed156702aa35207aa0926?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hilo, HI | Hybrid | Oct 22 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cf259fdbd9fb154ede5571?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cicero, NY | Hybrid | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc19e702aa35207aa8ebf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Highland, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd563be23def7af55b8629?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Avenel, NJ | Hybrid | Oct 21 |
@@ -88,7 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 | **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Project Support Coordinator](https://jobright.ai/jobs/info/68bf34075c5d5f14f46d4c52?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elmira, NY | On Site | Oct 21 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd0e702aa35207aa8d64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Romeoville, IL | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed0ef5c5d5f14f46d11ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Berlin, MD | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd0e702aa35207aa8d64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Romeoville, IL | Hybrid | Oct 21 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd65c5d5f14f46d9650?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kealakekua, HI | Hybrid | Oct 20 |
 | **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed37a702aa35207aa0c11?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clinton, MD | Hybrid | Oct 20 |
