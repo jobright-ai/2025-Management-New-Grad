@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc19e702aa35207aa8ebf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Highland, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd563be23def7af55b8629?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Avenel, NJ | Hybrid | Oct 21 |
+| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf898e65e77df55b46c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fox Lake, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2725c5d5f14f46d98a5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Burlington, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1f75c5d5f14f46d1363?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Laurel Springs, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbb6a3ba798c1a501d4420?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Owings Mills, MD | Hybrid | Oct 21 |
