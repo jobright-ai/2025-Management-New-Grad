@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf2e8e65e77df55b4651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Monroe, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
