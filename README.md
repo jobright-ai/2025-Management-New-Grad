@@ -89,20 +89,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 | **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Project Support Coordinator](https://jobright.ai/jobs/info/68bf34075c5d5f14f46d4c52?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elmira, NY | On Site | Oct 21 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd0e702aa35207aa8d64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Romeoville, IL | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd65c5d5f14f46d9650?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kealakekua, HI | Hybrid | Oct 20 |
 | **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed37a702aa35207aa0c11?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clinton, MD | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd8f8e65e77df55bcc70?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Suffern, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd1702aa35207aa8d22?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Machesney Park, IL | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfd1a35c5d5f14f46d9e80?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cambridge, MD | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbc0c5c5d5f14f46d95b0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chelsea, MA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbac84ba798c1a501d3c18?utm_campaign=Management%20and%20Executive&utm_source=1103)** | South Lake Tahoe, CA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc5418e65e77df55bcffc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amsterdam, NY | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ca539346caff4db51fd68a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tonawanda, NY | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cce5b077add66568abb856?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Batavia, NY | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02f228e65e77df55bf1a3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Amesbury, MA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2b05c5d5f14f46d98d1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cranford, NJ | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2915c5d5f14f46d98be?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lacey, WA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf2e8e65e77df55b4651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Monroe, NY | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
