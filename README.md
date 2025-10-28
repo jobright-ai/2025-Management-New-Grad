@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Coordinator I](https://jobright.ai/jobs/info/68db72809f13662d20e4b608?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nashville, TN | On Site | Oct 28 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Direct Care Staff / Behavior Tech - Poplar House EBSH 613](https://jobright.ai/jobs/info/67dea48fe6ce25fae13dcaa4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | East Palo Alto, CA | On Site | Oct 24 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/68510ea558938b8c777fe22a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newmarket, NH | On Site | Oct 24 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor II-Homebase](https://jobright.ai/jobs/info/686ef34ac0d19050cf5c97da?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Oct 24 |
@@ -210,9 +211,4 @@ For a complete list, click the following sortable link below:
 | **[Associa](http://www.associaonline.com)** | **[Community Association Manager](https://jobright.ai/jobs/info/68d1ab2117554c2d9eede4c1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Storage Buy Specialist](https://jobright.ai/jobs/info/687d3f7ded63844c944b23a9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chula Vista, CA | On Site | Oct 14 |
 | ↳ | **[Storage Buy Specialist](https://jobright.ai/jobs/info/687d3ed0764c3d7411c3c909?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
-| ↳ | **[Storage Buy Specialist](https://jobright.ai/jobs/info/68d1abe0a54edb3bf3e14c22?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Savannah, GA | On Site | Oct 14 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8cb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrodsburg, KY | On Site | Oct 14 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Wood)](https://jobright.ai/jobs/info/687d44bfed63844c944b241d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mission Viejo, CA | On Site | Oct 14 |
-| **[CM & Associates Construction Management](http://www.cm-assoc.net/)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/68d2f52317554c2d9eeec0b9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | NYC Metro Area | On Site | Oct 14 |
-| **[The Shade Store](https://www.theshadestore.com/)** | **[Showroom Administrative Assistant - Greenwich, CT](https://jobright.ai/jobs/info/689a92defaa4e875e8259d00?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Greenwich, CT | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
