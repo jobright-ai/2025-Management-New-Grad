@@ -206,6 +206,4 @@ For a complete list, click the following sortable link below:
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670ab2153c0d014c8c60aa07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
 | ↳ | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/68ccdfe7d11b445e0bee35fd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Manager Trainee - Operational Strength Program](https://jobright.ai/jobs/info/68ccf5865954791a1d701af3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Boston, MA | On Site | Oct 14 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/68cba16f9e3a822f5d2494f7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, SC | On Site | Oct 14 |
-| **[Associa](http://www.associaonline.com)** | **[Community Association Manager](https://jobright.ai/jobs/info/68d1ab2117554c2d9eede4c1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
