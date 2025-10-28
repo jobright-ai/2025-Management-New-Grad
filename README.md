@@ -88,6 +88,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbe74702aa35207aa8e6c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf268e65e77df55b4641?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Shelton, WA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
