@@ -92,6 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 | **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Project Support Coordinator](https://jobright.ai/jobs/info/68bf34075c5d5f14f46d4c52?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elmira, NY | On Site | Oct 21 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed0ef5c5d5f14f46d11ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Berlin, MD | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd0e702aa35207aa8d64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Romeoville, IL | Hybrid | Oct 21 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd65c5d5f14f46d9650?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kealakekua, HI | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
