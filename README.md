@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c8b088983e6768bc55050b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Coordinator I](https://jobright.ai/jobs/info/68db72809f13662d20e4b608?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nashville, TN | On Site | Oct 28 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Direct Care Staff / Behavior Tech - Poplar House EBSH 613](https://jobright.ai/jobs/info/67dea48fe6ce25fae13dcaa4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | East Palo Alto, CA | On Site | Oct 24 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/68510ea558938b8c777fe22a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Newmarket, NH | On Site | Oct 24 |
@@ -196,5 +197,4 @@ For a complete list, click the following sortable link below:
 | **[The Shade Store](https://www.theshadestore.com/)** | **[Showroom Administrative Assistant - Houston, TX](https://jobright.ai/jobs/info/689a9178faa4e875e8259bf1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Houston, TX | On Site | Oct 15 |
 | **[Allvue Systems](https://www.allvuesystems.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/68d32b978c62e63bc7fde4dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Oct 15 |
 | **[Transwestern](https://transwestern.com)** | **[Property Administrator](https://jobright.ai/jobs/info/680c1c55dc2d551620908b77?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Leandro, CA | On Site | Oct 15 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee146c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mocksville, NC | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
