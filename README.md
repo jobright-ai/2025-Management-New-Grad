@@ -197,6 +197,4 @@ For a complete list, click the following sortable link below:
 | **[Allvue Systems](https://www.allvuesystems.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/68d32b978c62e63bc7fde4dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | On Site | Oct 15 |
 | **[Transwestern](https://transwestern.com)** | **[Property Administrator](https://jobright.ai/jobs/info/680c1c55dc2d551620908b77?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Leandro, CA | On Site | Oct 15 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee146c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Mocksville, NC | On Site | Oct 15 |
-| **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a3e0adc54178459ee1460?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Orangeburg, SC | On Site | Oct 14 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Strategy & Operations Analyst](https://jobright.ai/jobs/info/68cf3aed846f0b04af67fde2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chicago, IL | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
