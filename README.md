@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c8b088983e6768bc55050b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Coordinator I](https://jobright.ai/jobs/info/68db72809f13662d20e4b608?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nashville, TN | On Site | Oct 28 |
 | **[Lime](https://www.li.me)** | **[Operations Coordinator](https://jobright.ai/jobs/info/68c4ac8c31e5763f188e284a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Indianapolis, IN | On Site | Oct 27 |
@@ -148,10 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Leadership Development Program](https://jobright.ai/jobs/info/689c0b3cfaa4e875e82655f6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Spirit Lake, IA | On Site | Oct 16 |
 | **[Momentum](https://momentum.com/)** | **[Launch Graduate Program: Enterprise Systems Associate](https://jobright.ai/jobs/info/68ccfcc95954791a1d70241e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Dallas, TX | On Site | Oct 16 |
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Burlington, NC | On Site | Oct 16 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/689c72e483d13d1f5b6a87b5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Long Beach, CA | On Site | Oct 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager- California](https://jobright.ai/jobs/info/68d439d317554c2d9eef723e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | **[Acrisure](http://acrisure.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d42883ffc1276de3fd7d2e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 16 |
 | **[Buro Happold](http://www.burohappold.com)** | **[Building Environments Administrative Coordinator](https://jobright.ai/jobs/info/68d30f8a8c62e63bc7fdd634?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | Hybrid | Oct 16 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68a704c8758f2e4ac3fe90af?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Paramus, NJ | On Site | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Assistant Department Manager (Installation Materials)](https://jobright.ai/jobs/info/687d49ae764c3d7411c3ca33?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Paramus, NJ | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
