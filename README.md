@@ -130,9 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5987128dc347fd922f0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, MD | On Site | Oct 16 |
 | ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5a30128dc347fd923060?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Frederick, MD | On Site | Oct 16 |
 | ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc6cb9128dc347fd924bb8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Spring Hill, TN | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc59db128dc347fd922fb4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wilmington, DE | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc62f316d00d2beeb1eb38?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Laurel, MD | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5adb16d00d2beeb1dc86?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Manassas, VA | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5aef7342c7623ae62cde?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Springfield, VA | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc747f16d00d2beeb20063?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
