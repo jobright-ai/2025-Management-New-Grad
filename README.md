@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc747f16d00d2beeb20063?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Graduate Project Management Specialist - 2026](https://jobright.ai/jobs/info/68d47dfb8c62e63bc7fe9ae2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc78627342c7623ae6560a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, TN | On Site | Oct 16 |
-| **[State and Liberty Clothing Co.](https://stateandliberty.com)** | **[Manager in Training](https://jobright.ai/jobs/info/680a6fb8e8009282f5bf92ad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbus, OH | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
