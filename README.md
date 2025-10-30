@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68ca23daf16e3266d28233c6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charleston, SC | On Site | Oct 30 |
-| **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68aef0f91f0a2a568a05e5d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | North Andover, MA | On Site | Oct 29 |
+| ↳ | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c8b088983e6768bc55050b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Coordinator I](https://jobright.ai/jobs/info/68db72809f13662d20e4b608?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nashville, TN | On Site | Oct 28 |
 | **[Lime](https://www.li.me)** | **[Operations Coordinator](https://jobright.ai/jobs/info/68c4ac8c31e5763f188e284a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Indianapolis, IN | On Site | Oct 27 |
@@ -126,8 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68b858d6ea901c0d269f5800?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Grafton, WI | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sanford, NC | On Site | Oct 17 |
 | ↳ | **[Licensed Salon Manager](https://jobright.ai/jobs/info/6863d51a96e8e76b43fb42e3?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Portland, OR | On Site | Oct 17 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/679353a98ce26e81cc7a8107?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vernon Hills, IL | On Site | Oct 16 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5987128dc347fd922f0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Columbia, MD | On Site | Oct 16 |
-| ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5a30128dc347fd923060?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Frederick, MD | On Site | Oct 16 |
-| ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc6cb9128dc347fd924bb8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Spring Hill, TN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
