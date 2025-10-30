@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68ca23daf16e3266d28233c6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charleston, SC | On Site | Oct 30 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c8b088983e6768bc55050b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Oct 28 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Coordinator I](https://jobright.ai/jobs/info/68db72809f13662d20e4b608?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Nashville, TN | On Site | Oct 28 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5adb16d00d2beeb1dc86?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Manassas, VA | On Site | Oct 16 |
 | ↳ | **[Over $100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc5aef7342c7623ae62cde?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Springfield, VA | On Site | Oct 16 |
 | ↳ | **[$100K Potential Annual Earning - Restaurant Manager](https://jobright.ai/jobs/info/68cc747f16d00d2beeb20063?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Birmingham, AL | On Site | Oct 16 |
-| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Graduate Project Management Specialist - 2026](https://jobright.ai/jobs/info/68d47dfb8c62e63bc7fe9ae2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
