@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[KBP Brands](http://www.kbpbrands.com)** | **[Sonic Shift Manager (Crew Leader)](https://jobright.ai/jobs/info/670a5e3d05470fff5912a8d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Burlington, NC | On Site | Oct 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Assistant Community Manager- California](https://jobright.ai/jobs/info/68d439d317554c2d9eef723e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | **[Acrisure](http://acrisure.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68d42883ffc1276de3fd7d2e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 16 |
-| **[Buro Happold](http://www.burohappold.com)** | **[Building Environments Administrative Coordinator](https://jobright.ai/jobs/info/68d30f8a8c62e63bc7fdd634?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Washington, DC | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
