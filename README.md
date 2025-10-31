@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Office Assistant](https://jobright.ai/jobs/info/68c65e84c96a22563ecedcee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Skillman, NJ | On Site | Oct 19 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/68c7ffa9983e6768bc548d0b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Port Charlotte, FL | On Site | Oct 18 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793a64d92f9511d05a60ede?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hope Mills, NC | On Site | Oct 17 |
-| **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68b858d6ea901c0d269f5800?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Grafton, WI | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
