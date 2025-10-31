@@ -77,8 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed156702aa35207aa0926?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hilo, HI | Hybrid | Oct 22 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cf259fdbd9fb154ede5571?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cicero, NY | Hybrid | Oct 22 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68cf47eefb49c96ca6ea6ae0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chaska, MN | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc19e702aa35207aa8ebf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Highland, CA | Hybrid | Oct 21 |
+| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc19e702aa35207aa8ebf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Highland, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd563be23def7af55b8629?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Avenel, NJ | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf898e65e77df55b46c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fox Lake, IL | Hybrid | Oct 21 |
@@ -124,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d193028c62e63bc7fccd07?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clackamas, OR | On Site | Oct 17 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793a64d92f9511d05a60ede?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hope Mills, NC | On Site | Oct 17 |
 | **[Edward Jones](https://www.edwardjones.com)** | **[Branch Office Administrator](https://jobright.ai/jobs/info/68b858d6ea901c0d269f5800?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Grafton, WI | On Site | Oct 17 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sanford, NC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
