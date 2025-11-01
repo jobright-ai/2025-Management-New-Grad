@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 31 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc310e16d00d2beeb1b524?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brockton, MA | Hybrid | Oct 31 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68ca23daf16e3266d28233c6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charleston, SC | On Site | Oct 30 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (North Florida)](https://jobright.ai/jobs/info/68adeb1f758f2e4ac300f83b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Gainesville, FL | On Site | Oct 30 |
