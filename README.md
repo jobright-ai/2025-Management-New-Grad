@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/66a8ef2f28578d427f515707?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Raymond, NH | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 31 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc310e16d00d2beeb1b524?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brockton, MA | Hybrid | Oct 31 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Meat Associate Team Leader (Assistant Department Manager)](https://jobright.ai/jobs/info/68ca23daf16e3266d28233c6?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Charleston, SC | On Site | Oct 30 |
