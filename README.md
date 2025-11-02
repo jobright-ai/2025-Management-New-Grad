@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vail Health](https://www.vailhealth.org)** | **[Unit Clerk](https://jobright.ai/jobs/info/68cc6501128dc347fd92440c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vail, CO | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/66a8ef2f28578d427f515707?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Raymond, NH | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 31 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc310e16d00d2beeb1b524?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brockton, MA | Hybrid | Oct 31 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (North Florida)](https://jobright.ai/jobs/info/68adeb1f758f2e4ac300f83b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Gainesville, FL | On Site | Oct 30 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/679321b442c55f63c63d5604?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Montezuma, GA | On Site | Oct 30 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager $15.00 Hr](https://jobright.ai/jobs/info/68cd18f1b2a74e1837ed240a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Millbrook, AL | On Site | Oct 29 |
+| **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c9a4cc95f5211cd2cf257c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kansas City, MO | On Site | Oct 29 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68aef0f91f0a2a568a05e5d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | North Andover, MA | On Site | Oct 29 |
 | ↳ | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager $15.00 Hr](https://jobright.ai/jobs/info/688f02816a4aac5783cdc490?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wetumpka, AL | On Site | Oct 28 |
