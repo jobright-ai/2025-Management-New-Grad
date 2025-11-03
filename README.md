@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed37a702aa35207aa0c11?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Clinton, MD | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd8f8e65e77df55bcc70?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Suffern, NY | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd1702aa35207aa8d22?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Machesney Park, IL | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
