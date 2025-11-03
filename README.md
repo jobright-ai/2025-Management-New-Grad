@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (North Florida)](https://jobright.ai/jobs/info/68ade9f3758f2e4ac300f71a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jacksonville, FL | On Site | Oct 29 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c9a4cc95f5211cd2cf257c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kansas City, MO | On Site | Oct 29 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68aef0f91f0a2a568a05e5d9?utm_campaign=Management%20and%20Executive&utm_source=1103)** | North Andover, MA | On Site | Oct 29 |
+| ↳ | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae3e1ed627244576e529de?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Taunton, MA | On Site | Oct 29 |
 | ↳ | **[Manager in Training - Operations (Northeast)](https://jobright.ai/jobs/info/68ae41ced627244576e52aad?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Huntingdon Valley, PA | On Site | Oct 29 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager $15.00 Hr](https://jobright.ai/jobs/info/688f02816a4aac5783cdc490?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wetumpka, AL | On Site | Oct 28 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68c8b088983e6768bc55050b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Tulsa, OK | On Site | Oct 28 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed0ef5c5d5f14f46d11ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Berlin, MD | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbd0e702aa35207aa8d64?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Romeoville, IL | Hybrid | Oct 21 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbcd65c5d5f14f46d9650?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Kealakekua, HI | Hybrid | Oct 20 |
-| **[O'Gara Coach](http://ogaracoach.com/)** | **[Business Office Clerk](https://jobright.ai/jobs/info/68ca6aa55f9f0336447dd745?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Thousand Oaks, CA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
