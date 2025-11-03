@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor I](https://jobright.ai/jobs/info/683f675a2ad9f7618676369b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Nov 02 |
+| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Perry, GA | On Site | Nov 02 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Unit Clerk](https://jobright.ai/jobs/info/68cc6501128dc347fd92440c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vail, CO | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/66a8ef2f28578d427f515707?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Raymond, NH | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 31 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed32f702aa35207aa0ba4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Waimea, HI | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf2e8e65e77df55b4651?utm_campaign=Management%20and%20Executive&utm_source=1103)** | West Monroe, NY | Hybrid | Oct 20 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd1119b2a74e1837ed1abb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Belfair, WA | Hybrid | Oct 20 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68ce6d0a846f0b04af679c83?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Minooka, IL | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
