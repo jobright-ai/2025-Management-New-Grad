@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Copy Project Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864241?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrisburg, PA | On Site | Nov 03 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor I](https://jobright.ai/jobs/info/683f675a2ad9f7618676369b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Nov 02 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Perry, GA | On Site | Nov 02 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Unit Clerk](https://jobright.ai/jobs/info/68cc6501128dc347fd92440c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vail, CO | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/66a8ef2f28578d427f515707?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Raymond, NH | On Site | Nov 01 |
+| ↳ | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, GA | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Shift Manager- $12-15/hr](https://jobright.ai/jobs/info/678c35b0101ce1183e3a4a0c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Myrtle Beach, SC | On Site | Oct 31 |
 | **[H&R Block](https://www.hrblock.com)** | **[Block Advisor Associate Team Leader](https://jobright.ai/jobs/info/68cc310e16d00d2beeb1b524?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Brockton, MA | Hybrid | Oct 31 |
 | **[La Petite Academy](https://www.lapetite.com/)** | **[Assistant Director](https://jobright.ai/jobs/info/68c9def2f9c6ff7aedf1eca2?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sacramento, CA | On Site | Oct 31 |
