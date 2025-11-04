@@ -106,11 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbb6a3ba798c1a501d4420?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Owings Mills, MD | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed5ee8e65e77df55b4aa0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sedro-Woolley, WA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bece8b8e65e77df55b45b4?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Coronado, CA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1b2702aa35207aa09a1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Murphysboro, IL | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68c02eb68e65e77df55bf146?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Wall, NJ | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed7998e65e77df55b4c7b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Saratoga Springs, NY | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbe74702aa35207aa8e6c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf268e65e77df55b4641?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Shelton, WA | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
