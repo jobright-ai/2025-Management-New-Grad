@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Copy Project Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864241?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrisburg, PA | On Site | Nov 03 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/685df415a182c6033b43fa37?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Independence, MO | On Site | Nov 02 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor I](https://jobright.ai/jobs/info/683f675a2ad9f7618676369b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Nov 02 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Perry, GA | On Site | Nov 02 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Unit Clerk](https://jobright.ai/jobs/info/68cc6501128dc347fd92440c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vail, CO | On Site | Nov 01 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 | **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Project Support Coordinator](https://jobright.ai/jobs/info/68bf34075c5d5f14f46d4c52?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Elmira, NY | On Site | Oct 21 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed0ef5c5d5f14f46d11ee?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Berlin, MD | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
