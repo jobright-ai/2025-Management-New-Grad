@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68d14bbb8c62e63bc7fca261?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Copy Project Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864241?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrisburg, PA | On Site | Nov 03 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/685df415a182c6033b43fa37?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Independence, MO | On Site | Nov 02 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor I](https://jobright.ai/jobs/info/683f675a2ad9f7618676369b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Nov 02 |
@@ -112,6 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd005b5954791a1d702b5e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Chillicothe, IL | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbe74702aa35207aa8e6c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Santa Rosa, CA | Hybrid | Oct 21 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf268e65e77df55b4641?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Shelton, WA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed385702aa35207aa0c1e?utm_campaign=Management%20and%20Executive&utm_source=1103)** | New York, NY | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfbeb58e65e77df55bcd6a?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, NY | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
