@@ -97,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1f3702aa35207aa09f1?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Culver City, CA | Hybrid | Oct 22 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd688e65e77df55b44b7?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Billerica, MA | Hybrid | Oct 22 |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed156702aa35207aa0926?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hilo, HI | Hybrid | Oct 22 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cf259fdbd9fb154ede5571?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cicero, NY | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
