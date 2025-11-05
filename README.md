@@ -58,10 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Assistant Dental Office Manager](https://jobright.ai/jobs/info/68d14bbb8c62e63bc7fca261?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/67933d9a8b8cd24636904f31?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jacksonville, NC | On Site | Nov 03 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Copy Project Manager](https://jobright.ai/jobs/info/67eec162357dc4681d864241?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Harrisburg, PA | On Site | Nov 03 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/685df415a182c6033b43fa37?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Independence, MO | On Site | Nov 02 |
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Residential Program Supervisor I](https://jobright.ai/jobs/info/683f675a2ad9f7618676369b?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Twin Cities Area | On Site | Nov 02 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fb?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Perry, GA | On Site | Nov 02 |
+| ↳ | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/679321b442c55f63c63d5730?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vienna, GA | On Site | Nov 02 |
+| ↳ | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fa?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Manchester, GA | On Site | Nov 02 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Unit Clerk](https://jobright.ai/jobs/info/68cc6501128dc347fd92440c?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Vail, CO | On Site | Nov 01 |
 | **[McDonald's](https://corporate.mcdonalds.com/)** | **[Opening & Closing Manager $17.50 HR - Overtime Available](https://jobright.ai/jobs/info/66a8ef2f28578d427f515707?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Raymond, NH | On Site | Nov 01 |
 | ↳ | **[Assistant General Manager - Are you ready to advance your career?](https://jobright.ai/jobs/info/67938b6ca949e730e913e1fd?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Jackson, GA | On Site | Nov 01 |
@@ -96,14 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Aspen Dental](https://careers.aspendental.com)** | **[Dental Office Manager](https://jobright.ai/jobs/info/68bf6f3f8e65e77df55ba300?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Bangor, ME | On Site | Oct 22 |
 | **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed156702aa35207aa0926?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hilo, HI | Hybrid | Oct 22 |
 | ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cf259fdbd9fb154ede5571?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Cicero, NY | Hybrid | Oct 22 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc19e702aa35207aa8ebf?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Highland, CA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed36a702aa35207aa0bf8?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Hackensack, NJ | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cd563be23def7af55b8629?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Avenel, NJ | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becf898e65e77df55b46c0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Fox Lake, IL | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bfc2725c5d5f14f46d98a5?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Burlington, NJ | Hybrid | Oct 21 |
-| **[McDonald's](https://corporate.mcdonalds.com/)** | **[Closing Shift Manager](https://jobright.ai/jobs/info/66b220aae79fc02b4a6d033d?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Powell, OH | On Site | Oct 21 |
-| **[H&R Block](https://www.hrblock.com)** | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed1f75c5d5f14f46d1363?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Laurel Springs, NJ | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68cbb6a3ba798c1a501d4420?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Owings Mills, MD | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68becd9d8e65e77df55b44dc?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Goleta, CA | Hybrid | Oct 21 |
-| ↳ | **[Associate Team Leader](https://jobright.ai/jobs/info/68bed5ee8e65e77df55b4aa0?utm_campaign=Management%20and%20Executive&utm_source=1103)** | Sedro-Woolley, WA | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
